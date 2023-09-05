@@ -1,2 +1,3 @@
-# Nazarov_MeteoSbor
+# HSE Lyceum IT Projects - MeteoSbor
+# Назаров Андрей
 Приложение для сбора любительских метеоданных и их отображения
